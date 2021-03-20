@@ -1,0 +1,23 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "CRUD exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectorariasnieto/crud.git"
+  },
+  "author": "Héctor Arias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hectorariasnieto/crud/issues"
+  },
+  "homepage": "https://github.com/hectorariasnieto/crud#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "prettier": "^2.2.1"
+  }
+}
