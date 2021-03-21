@@ -4,7 +4,8 @@
   "description": "CRUD exercise",
   "main": "app.js",
   "scripts": {
-    "test": "dev"
+    "test": "dev",
+    "start": "nps start app.js"
   },
   "repository": {
     "type": "git",
